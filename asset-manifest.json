@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ErpBuddies-AboutUsPage/static/css/main.53a252c8.css",
-    "main.js": "/ErpBuddies-AboutUsPage/static/js/main.5ade6394.js",
+    "main.css": "/ErpBuddies-AboutUsPage/static/css/main.d4171b98.css",
+    "main.js": "/ErpBuddies-AboutUsPage/static/js/main.cec71351.js",
     "static/js/787.c6373723.chunk.js": "/ErpBuddies-AboutUsPage/static/js/787.c6373723.chunk.js",
     "index.html": "/ErpBuddies-AboutUsPage/index.html",
-    "main.53a252c8.css.map": "/ErpBuddies-AboutUsPage/static/css/main.53a252c8.css.map",
-    "main.5ade6394.js.map": "/ErpBuddies-AboutUsPage/static/js/main.5ade6394.js.map",
+    "main.d4171b98.css.map": "/ErpBuddies-AboutUsPage/static/css/main.d4171b98.css.map",
+    "main.cec71351.js.map": "/ErpBuddies-AboutUsPage/static/js/main.cec71351.js.map",
     "787.c6373723.chunk.js.map": "/ErpBuddies-AboutUsPage/static/js/787.c6373723.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53a252c8.css",
-    "static/js/main.5ade6394.js"
+    "static/css/main.d4171b98.css",
+    "static/js/main.cec71351.js"
   ]
 }
