@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ErpBuddies-AboutUsPage/static/css/main.53a252c8.css",
+    "main.js": "/ErpBuddies-AboutUsPage/static/js/main.7fa95806.js",
+    "static/js/787.c6373723.chunk.js": "/ErpBuddies-AboutUsPage/static/js/787.c6373723.chunk.js",
+    "index.html": "/ErpBuddies-AboutUsPage/index.html",
+    "main.53a252c8.css.map": "/ErpBuddies-AboutUsPage/static/css/main.53a252c8.css.map",
+    "main.7fa95806.js.map": "/ErpBuddies-AboutUsPage/static/js/main.7fa95806.js.map",
+    "787.c6373723.chunk.js.map": "/ErpBuddies-AboutUsPage/static/js/787.c6373723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53a252c8.css",
+    "static/js/main.7fa95806.js"
+  ]
+}
